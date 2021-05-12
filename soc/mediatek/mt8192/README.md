@@ -33,7 +33,6 @@ for faster bootup after the frist bootup.
    Below shows the internal structure of dramc_param:
 ```
     struct dramc_param_header {
-        u32 checksum;   /* checksum of dramc_datas, update in the coreboot */
         u16 version;    /* DRAMC_PARAM_HEADER_VERSION, update in the coreboot */
         u16 size;       /* size of whole dramc_param, update in the coreboot */
         u16 status;     /* DRAMC_PARAM_STATUS_CODES, update in the dram blob */
@@ -72,11 +71,15 @@ for faster bootup after the frist bootup.
 
 ## The output of `dram.elf`
    - `dram.elf` will set the suitable dramc settings, also save the DRAM parameters
-     to NAND (or EMMC) on the specified section: "RW_DDR_TRAINING".
+     to NOR/NAND (or EMMC) on the specified section: "RW_MRC_CACHE".
 
 ## Return Values
    - 0   : means successful.
    - < 0 : means failed.
+
+## Version
+  - $ strings dram.elf | grep "firmware version"
+    MediaTek DRAM firmware version: 1.6.2
 
 --------------------------------------------------------------------------------
 # DPM Introduction
@@ -143,7 +146,8 @@ SSPM firmware is loaded into SSPM SRAM at system initialization.
   - No return value.
 
 ## Version
-  - No version yet.
+  - $ strings sspm.bin | grep version
+    MediaTek SSPM firmware: version 1.0.0
 
 --------------------------------------------------------------------------------
 # MCUPM Introduction
@@ -162,4 +166,5 @@ MCUPM SRAM at system initialization.
   - No return value.
 
 ## Version
-  - Refer to MCUPM release note.
+  - $ strings mcupm.bin | grep MCUPM
+    MediaTek MCUPM firmware: version 1.00.06
