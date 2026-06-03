@@ -1,0 +1,21 @@
+percent_identical	differing_bytes	reference_bin
+69.85	39520	/home/sean/Insync/sean@starlabs.systems/Google Drive - Shared drives/Development/Reference Code/ECs/b5/ROM/IN1_EC_V01.00.bin
+69.10	40501	/home/sean/Insync/sean@starlabs.systems/Google Drive - Shared drives/Development/Reference Code/ECs/b5/ROM/TN1_EC_V0.05_20200628A/TN1_EC_V0.05.bin
+69.02	40612	/home/sean/Insync/sean@starlabs.systems/Google Drive - Shared drives/Development/Reference Code/ECs/b5/ROM/TN1_EC_V0.07_20200901B/TN1_EC_V0.07.bin
+68.95	40701	/home/sean/Insync/sean@starlabs.systems/Google Drive - Shared drives/Development/Reference Code/ECs/b5/ROM/TN1_EC_V0.03_20200521A/TN1_EC_V0.03.bin
+68.91	40755	/home/sean/Insync/sean@starlabs.systems/Google Drive - Shared drives/Development/Reference Code/ECs/b5/ROM/TN1_EC_V0.04_20200604A/TN1_EC_V0.04.bin
+68.74	40970	/home/sean/Insync/sean@starlabs.systems/Google Drive - Shared drives/Development/Reference Code/ECs/b5/ROM/TN1_EC_V0.06_20200824A/TN1_EC_V0.06.bin
+68.58	41177	/home/sean/Insync/sean@starlabs.systems/Google Drive - Shared drives/Development/Reference Code/ECs/b5/ROM/TN1_EC_V0.07_20200901A/TN1_EC_V0.07.bin
+68.38	41446	/home/sean/Insync/sean@starlabs.systems/Google Drive - Shared drives/Development/Reference Code/ECs/b5/ROM/TN1_EC_V1.00_20200917A/TN1_EC_V1.00.bin
+68.30	41554	/home/sean/Insync/sean@starlabs.systems/Google Drive - Shared drives/Development/Reference Code/ECs/b5/ROM/TN1_EC_V1.02_20200928A/TN1_EC_V1.02.bin
+67.94	42023	/home/sean/Insync/sean@starlabs.systems/Google Drive - Shared drives/Development/Reference Code/ECs/b5/ROM/TN1_EC_V1.05_20210628A/TN1_EC_V1.05.bin
+67.94	42021	/home/sean/Insync/sean@starlabs.systems/Google Drive - Shared drives/Development/Reference Code/ECs/b5/ROM/TN1_EC_V1.04_20210521A/TN1_EC_V1.04.bin
+67.94	42021	/home/sean/Insync/sean@starlabs.systems/Google Drive - Shared drives/Development/Reference Code/ECs/b5/ROM/TN1_EC_V1.03_20210316A/TN1_EC_V1.03.bin
+67.74	42288	/home/sean/Insync/sean@starlabs.systems/Google Drive - Shared drives/Development/Reference Code/ECs/b5/ROM/TN1_EC_V1.06_KUU_20210901A/TN1_EC_V1.06.bin
+67.74	42288	/home/sean/Insync/sean@starlabs.systems/Google Drive - Shared drives/Development/Reference Code/ECs/b5/ROM/TN1_EC_V1.06.bin
+66.75	43581	/home/sean/Insync/sean@starlabs.systems/Google Drive - Shared drives/Development/Reference Code/ECs/b5/ROM/TN1_EC_V5.00_StarLab_20210908A/TN1_EC_V5.00.bin
+66.41	44022	/home/sean/Insync/sean@starlabs.systems/Google Drive - Shared drives/Development/Reference Code/ECs/b5/ROM/TN1_EC_V1.00_StarLab_20210910C/TN1_EC_V1.00.bin
+66.39	44047	/home/sean/Insync/sean@starlabs.systems/Google Drive - Shared drives/Development/Reference Code/ECs/b5/ROM/TN1_EC_V1.01_StarLab_20210910A/TN1_EC_V1.01.bin
+66.37	44085	/home/sean/Insync/sean@starlabs.systems/Google Drive - Shared drives/Development/Reference Code/ECs/b5/ROM/TN1_EC_V1.02_StarLab_20211210A/TN1_EC_V1.02.bin
+66.37	44081	/home/sean/Insync/sean@starlabs.systems/Google Drive - Shared drives/Development/Reference Code/ECs/b5/ROM/TN1_EC_V1.03_StarLab_20211222A/TN1_EC_V1.03.bin
+65.31	45465	/home/sean/Insync/sean@starlabs.systems/Google Drive - Shared drives/Development/Reference Code/ECs/b62/ROM/DN1E_EC_V1.00_140M5_YD_StarLabs_20230627A/DN1E_EC_V1.00.bin
