@@ -1,3 +1,12 @@
+# 16378.383.0.
+
+1. An official build from ChromeOS version 16378.383.0.
+   Protocol (params header) version: 2
+
+2. Included changes
+- CL:*9645683 mtk-dramk/mt8189: Fix struct sdram_params size mismatch in fast-K loader
+
+
 # 16348.0.0.
 
 1. An official build from ChromeOS version 16348.0.0.
