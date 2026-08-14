@@ -1,3 +1,11 @@
+# 0.2.1
+
+1. ChromeOS build from 15194.403.0.
+
+2. Included changes:
+
+- CL:*9618455: mtk-dramk/mt8186: Fix struct sdram_params size mismatch in fast-K loader
+
 # 0.1.1
 
 1. ChromeOS build from 15979.0.0.
